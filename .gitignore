@@ -1,0 +1,7 @@
+target/
+src/main/resources/output/
+src/main/resources/output_sales/
+*.crc
+*.class
+*.jar
+src/main/resources/input/purchases.txt
